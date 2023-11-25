@@ -1,0 +1,16 @@
+/* .nav-folder-children .nav-file-title-content:first-child::before { content: '🗒 '; } */
+
+/* .nav-folder-children .nav-folder-title-content::before {
+    content: '📂 ';
+} */
+
+.nav-folder-children .nav-file-title-content:first-child::before {
+  /* content: "🗄️"; */
+  content: "📝";
+  padding: 0 0.2rem 0 0;
+}
+
+.nav-folder-children .nav-folder-title-content::before {
+  content: '📁';
+  padding: 0 0.2rem 0 0;
+}

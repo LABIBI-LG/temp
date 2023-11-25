@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "99c793e71a2e0225",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d432082aff3e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350f9664ac187d0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中租/工作日誌/2023-11/2023-11月 第四周.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dd39015fd6b1d6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中租/專案/客戶數位服務系統(CIS)/專案資訊.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fd0767b05b12122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中租/專案/小車線上融資/相關開發/電子合約相關內容調整 (已完成 未上線).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f7ec2e41847198",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a239635a533476e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c66d3da026ee68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df709deaad8a2311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5195b2a728b6228c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ac9134a8d83ae18",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "102ef9202d5f876f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "c0eac3ce597f38dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d3b425114384d1",
+        "type": "tabs",
+        "dimension": 17.24137931034483,
+        "children": [
+          {
+            "id": "71a8b31e6835d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "中租/專案/小車線上融資/相關開發/電子合約相關內容調整 (已完成 未上線).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a641ede4ded0550",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "中租/專案/小車線上融資/相關開發/電子合約相關內容調整 (已完成 未上線).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6788d5430d5a2330",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "562bda207415f3dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "中租/專案/小車線上融資/相關開發/電子合約相關內容調整 (已完成 未上線).md"
+              }
+            }
+          },
+          {
+            "id": "f24145119aac6e1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1508dd55fa4efa2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "59eefda6db3746bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "e7db2b2acbbe53f5",
+        "type": "tabs",
+        "dimension": 82.75862068965517,
+        "children": [
+          {
+            "id": "a01fb63f764dfcf1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "76f7ec2e41847198",
+  "lastOpenFiles": [
+    "中租/工作日誌/2023-11/2023-11月 第四周.md",
+    "中租/專案/小車線上融資/相關開發/電子合約相關內容調整 (已完成 未上線).md",
+    "中租/專案/客戶數位服務系統(CIS)/專案資訊.md",
+    "名詞解釋/程式/耦合度.md",
+    "front end/Angular/基本概念/Angular 元件 (Component)/Angular 元件 (Component).md",
+    "front end/Angular/基本概念/Angular 指令 (Directive)/Angular 指令 (Directive).md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/Angular 管道 (Pipe).md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/利用 pipe 將數字轉換成對應的星期幾名稱.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/Angular cli 建立 Pipe.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/數值資料的顯示 - DecimalPipe.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/檢視物件資料 - JsonPipe.md",
+    "z-輔助工具/Admonition.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/非同步請求 - AsyncPipe.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/日期資料的顯示 - DatePipe.md",
+    "front end/Css/Tailwind CSS/套件/按鈕hover效果.md",
+    "front end/Css/Tailwind CSS/Tailwind CSS.md",
+    "front end/Css/Tailwind CSS/內容/Tailwind Plugin 安裝套件.md",
+    "front end/Css/Tailwind CSS/內容/Tailwind CSS 環境安裝.md",
+    "front end/Css/Tailwind CSS/內容/好用的 vscode 套件.md",
+    "front end/Css/Tailwind CSS/內容/什麼是 Tailwind CSS.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/改變字母大小寫 - TitleCasePipe、LowerCasePipe、UpperCasePipe.md",
+    "中租/瑣碎細節/教學/一般作業/上線作業.md",
+    "中租/瑣碎細節/教學/一般作業/新版需求單.md",
+    "中租/瑣碎細節/教學/一般作業/專案需求申請流程.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/貨幣資料的顯示 - CurrencyPipe.md",
+    "front end/Angular/基本概念/Angular 管道 (Pipe)/內容/百分比資料的顯示 - PercentPip.md",
+    "z-file/pdf/Tailwind CSS.pdf",
+    "z-file/pdf/GOOGE23860501.pdf",
+    "z-file/pdf/設定一個好用的Powershell環境.pdf",
+    "z-file/pdf/從零開始 Docker 容器化技術基礎概念及實用指南.pdf",
+    "z-file/pdf/自辦分享流程.pdf",
+    "z-file/pdf/20231109_-_MWC2023_-_AngularSinglas.pdf",
+    "z-file/img/Pasted image 20231031105128.png",
+    "z-file/img/Pasted image 20231031105308.png",
+    "z-file/img/Pasted image 20231031170556.png",
+    "z-file/img/Pasted image 20231115223008.png",
+    "z-file/img/Pasted image 20231114110651.png",
+    "z-file/img/Pasted Image 20231121131834_006.png",
+    "z-file/Pasted Image 20231117161631_309.png",
+    "z-file/img/Pasted image 20231101094120.png",
+    "z-file/img/Pasted Image 20231121150039_035.png",
+    "z-file/img/Pasted Image 20231121140722_280.png",
+    "中租/自辦分享/已分享",
+    "生活/年目標/2024",
+    "生活/年目標/2023",
+    "中租/專案/中租基金會改版",
+    "未命名.canvas",
+    "back end/Node.js/nodejs + MongoDB 實作步驟.canvas",
+    "nodejs + MongoDB 實作API.canvas"
+  ]
+}
